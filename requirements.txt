@@ -1,0 +1,10 @@
+# Tsclp_v2.0
+# ВАЖНО: версия t-tech-investments зафиксирована.
+# Проверьте актуальную версию: https://opensource.tbank.ru/api/v4/projects/238/packages/pypi/simple
+# t-tech-investments==1.51.0
+pandas>=2.0
+pandas-ta-classic>=0.3.14b
+python-telegram-bot>=20.0,<22.0
+python-dotenv>=1.0
+pytest>=7.0
+pytest-asyncio>=0.23

@@ -1,0 +1,1 @@
+trade_id;timestamp_utc;ticker;figi;lot_size;side;signal_reason;signal_time;price_before_order;order_send_time;order_id;execution_status;requested_lots;executed_lots;execution_price;exit_reason;exit_price;exit_time;commission_rub;slippage_rub;gross_pnl_rub;net_pnl_rub;error_note
